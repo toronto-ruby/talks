@@ -6,11 +6,6 @@ labels: ''
 assignees: ''
 
 ---
-
-### Title
-
-Keep it short and use emojis to make it stand out!
-
 ### Abstract
 
 A short description of your talk.
